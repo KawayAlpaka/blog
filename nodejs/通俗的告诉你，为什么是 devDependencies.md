@@ -1,3 +1,4 @@
+# 通俗的告诉你，为什么是 devDependencies
 纠结，`dependencies` 和 `devDependencies` 有什么区别？我使用的包应该放到什么地方？上网找资料，大神群咨询。得到的答案是：   
 
 * 生产环境用到的放在 `dependencies`中;      
